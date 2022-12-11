@@ -1,0 +1,33 @@
+/* Styles go here */
+body {
+    background-color: rgba(27, 26, 26, 0.801);
+    /* background-image: linear-gradient(to bottom right, #1b3147, #012694, #1da7f7, rgb(247, 8, 88)); */
+    }
+
+img {
+    width: 4;
+    height: 3;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: darkblue;
+    color: black;
+    text-align: center;
+  }
+
+fieldset {
+    /* background-color: #89cff0;; */
+    background-color: orange;/* #3f5663;*/
+    margin: 8px;
+    /* border: 1px solid silver; */
+    padding: 8px;    
+    border-radius: 4px;
+}
+
+.whiten {
+    color: white;
+}
